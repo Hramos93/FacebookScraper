@@ -1,7 +1,5 @@
 import requests
 import urllib.request
-import pandas as pd 
-import numpy as np
 from bs4 import BeautifulSoup
 from datetime import datetime as dt
 import csv 
